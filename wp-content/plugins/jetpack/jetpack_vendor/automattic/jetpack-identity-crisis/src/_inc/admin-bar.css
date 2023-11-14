@@ -1,0 +1,25 @@
+#wpadminbar #wp-admin-bar-jetpack-idc {
+  margin-right: 5px;
+}
+#wpadminbar #wp-admin-bar-jetpack-idc .jp-idc-admin-bar {
+  border-radius: 2px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #EFEFF0;
+  padding: 6px 8px;
+}
+#wpadminbar #wp-admin-bar-jetpack-idc.hide {
+  display: none;
+}
+#wpadminbar #wp-admin-bar-jetpack-idc .dashicons {
+  font-family: "dashicons";
+  margin-top: -6px;
+}
+#wpadminbar #wp-admin-bar-jetpack-idc .dashicons:before {
+  font-size: 18px;
+}
+#wpadminbar #wp-admin-bar-jetpack-idc .ab-item {
+  padding: 0;
+  background: #E68B28;
+}/*# sourceMappingURL=admin-bar.css.map */

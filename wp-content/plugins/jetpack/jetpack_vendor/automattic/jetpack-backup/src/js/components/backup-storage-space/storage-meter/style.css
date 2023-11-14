@@ -1,0 +1,31 @@
+.backup-storage-space__progress-bar {
+  height: 24px;
+  line-height: 0;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+.backup-storage-space__progress-bar .progress-bar {
+  height: 100%;
+  border-radius: 12px; /* stylelint-disable-line scales/radii */
+  background-color: var(--jp-gray-5);
+}
+.backup-storage-space__progress-bar .progress-bar .progress-bar__progress {
+  /* stylelint-disable-next-line scales/radii */
+  border-radius: 12px 0 0 12px;
+  min-width: 12px;
+  max-width: calc(100% - 12px);
+}
+.backup-storage-space__progress-bar .progress-bar.no-warning .progress-bar__progress {
+  background-color: var(--jp-black);
+}
+.backup-storage-space__progress-bar .progress-bar.yellow-warning .progress-bar__progress {
+  background-color: var(--jp-yellow-20);
+}
+.backup-storage-space__progress-bar .progress-bar.red-warning .progress-bar__progress {
+  background-color: var(--jp-red-40);
+}
+.backup-storage-space__progress-bar .progress-bar.full-warning .progress-bar__progress {
+  max-width: initial;
+  background-color: var(--jp-red-40);
+  border-radius: 12px; /* stylelint-disable-line scales/radii */
+}/*# sourceMappingURL=style.css.map */

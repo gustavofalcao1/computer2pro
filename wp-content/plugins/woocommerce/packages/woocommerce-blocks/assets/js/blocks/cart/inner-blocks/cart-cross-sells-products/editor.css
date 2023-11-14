@@ -1,0 +1,27 @@
+.wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product {
+  display: inline-block;
+  margin-bottom: 2em;
+  padding-right: 5%;
+  text-align: center;
+  vertical-align: top;
+  width: 30%;
+}
+.wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product:nth-child(3n+3) {
+  padding-right: 0;
+}
+.wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product div .wc-block-components-product-name {
+  font-weight: 400;
+}
+.wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product div .wc-block-components-product-price {
+  display: block;
+}
+.wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product .wc-block-components-product-add-to-cart-button:not(.is-link) {
+  background-color: #eee;
+  color: #333;
+  margin-top: 1em;
+}
+.wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product .wc-block-components-product-add-to-cart-button:not(.is-link):focus, .wp-block-woocommerce-cart-cross-sells-products-block .cross-sells-product .wc-block-components-product-add-to-cart-button:not(.is-link):hover {
+  background-color: #d5d5d5;
+  border-color: #d5d5d5;
+  color: #333;
+}/*# sourceMappingURL=editor.css.map */

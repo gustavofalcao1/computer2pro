@@ -1,0 +1,859 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"WPAppsDev - WC "
+"PcBuilder\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-08-30 02:07+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: WPAppsDev "
+"<anandacsebd@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+"X-Poedit-"
+"SearchPathExcluded-0: "
+"node_modules\n"
+
+#: includes/Abstracts/WPAppsDevShortcode.php:18
+msgid ""
+"$shortcode property is "
+"empty."
+msgstr ""
+
+#: includes/Admin/Menu.php:50
+msgid "WC Pc Builder"
+msgstr ""
+
+#: includes/Admin/Menu.php:51
+msgid "WC PcBuilder"
+msgstr ""
+
+#: includes/Admin/Menu.php:73
+msgid "PC Components"
+msgstr ""
+
+#: includes/Admin/Product.php:19
+msgid "Product Features"
+msgstr ""
+
+#: includes/Admin/Product.php:30
+msgid ""
+"PC Builder Configuration"
+msgstr ""
+
+#: includes/Admin/Product.php:96
+msgid ""
+"Add component product "
+"features lists."
+msgstr ""
+
+#: includes/Admin/Settings.php:42
+msgid "Pc Builder Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:43
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:87
+msgid ""
+"Builder Pages Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:88
+msgid "Pages Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:92
+msgid ""
+"Builder Page Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:93
+msgid "Builder Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:97
+msgid ""
+"Search Page Settings"
+msgstr ""
+
+#: includes/Admin/Settings.php:98
+msgid "Search Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:118
+msgid "Select Builder Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:124
+msgid ""
+"Select Builder Search "
+"Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:134
+#: includes/Admin/Settings.php:187
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: includes/Admin/Settings.php:135
+msgid ""
+"Disable builder page "
+"breadcrumb section."
+msgstr ""
+
+#: includes/Admin/Settings.php:140
+msgid ""
+"Breadcrumb Menu Name"
+msgstr ""
+
+#: includes/Admin/Settings.php:141
+msgid ""
+"Input breadcrumb section "
+"menu name."
+msgstr ""
+
+#: includes/Admin/Settings.php:143
+#: includes/Helper/BuilderManager.php:45
+#: includes/Installer.php:37
+msgid "PC Builder"
+msgstr ""
+
+#: includes/Admin/Settings.php:147
+#: includes/Admin/Settings.php:193
+msgid "Breadcrumb Title"
+msgstr ""
+
+#: includes/Admin/Settings.php:148
+msgid ""
+"Input breadcrumb section "
+"title."
+msgstr ""
+
+#: includes/Admin/Settings.php:150
+#: includes/Helper/BuilderManager.php:36
+msgid ""
+"PC Builder - Build Your "
+"Own Computer"
+msgstr ""
+
+#: includes/Admin/Settings.php:154
+msgid "Disable Actions"
+msgstr ""
+
+#: includes/Admin/Settings.php:155
+msgid ""
+"Disable builder page "
+"actions section."
+msgstr ""
+
+#: includes/Admin/Settings.php:160
+msgid "Redirect Checkout"
+msgstr ""
+
+#: includes/Admin/Settings.php:161
+msgid ""
+"Enable redirect to "
+"checkout page after "
+"product added to cart."
+msgstr ""
+
+#: includes/Admin/Settings.php:181
+msgid "Per Page"
+msgstr ""
+
+#: includes/Admin/Settings.php:188
+msgid ""
+"Disable search page "
+"breadcrumb section."
+msgstr ""
+
+#: includes/Admin/Settings.php:194
+msgid ""
+"Input breadcrumb section "
+"title. Short Tag: "
+"{component_name}"
+msgstr ""
+
+#: includes/Admin/Settings.php:196
+#: includes/Helper/SearchManager.php:36
+msgid ""
+"PC Builder - Find Your "
+"{component_name} "
+"Component"
+msgstr ""
+
+#: includes/Admin/Settings.php:200
+msgid "Disable Top Filter"
+msgstr ""
+
+#: includes/Admin/Settings.php:201
+msgid ""
+"Disable search page top "
+"filter section."
+msgstr ""
+
+#: includes/Admin/Settings.php:206
+msgid "Price range start"
+msgstr ""
+
+#: includes/Admin/Settings.php:212
+msgid "Price range end"
+msgstr ""
+
+#: includes/Admin/Settings.php:232
+msgid "Select Page"
+msgstr ""
+
+#: includes/Ajax.php:56
+#: includes/Ajax.php:524
+msgid "Are you cheating?"
+msgstr ""
+
+#: includes/Ajax.php:74
+msgid ""
+"Please select valid PC "
+"component."
+msgstr ""
+
+#: includes/Ajax.php:94
+#: includes/Ajax.php:118
+#: wpappsdev-pcbuilder.php:245
+msgid "Configure"
+msgstr ""
+
+#: includes/Ajax.php:99
+msgid ""
+"Please assign component "
+"filters group."
+msgstr ""
+
+#: includes/Ajax.php:123
+msgid ""
+"No filter found for this "
+"component. Please add "
+"filters for this "
+"component."
+msgstr ""
+
+#: includes/Ajax.php:256
+msgid ""
+"Please select components "
+"product."
+msgstr ""
+
+#: includes/Ajax.php:307
+msgid ""
+"You can not save pc "
+"configuration without "
+"login."
+msgstr ""
+
+#: includes/Ajax.php:321
+msgid ""
+"You can not save empty "
+"configuration data."
+msgstr ""
+
+#: includes/Ajax.php:350
+msgid ""
+"Something wrong when "
+"save pc configuration."
+msgstr ""
+
+#: includes/Ajax.php:378
+#: includes/Ajax.php:432
+msgid "Invalid nonce."
+msgstr ""
+
+#: includes/Ajax.php:391
+msgid ""
+"Saved pc configuration "
+"id mission."
+msgstr ""
+
+#: includes/Ajax.php:406
+msgid ""
+"Something wrong when "
+"remove saved pc "
+"configuration."
+msgstr ""
+
+#: includes/Ajax.php:444
+msgid "Invalid action."
+msgstr ""
+
+#: includes/Ajax.php:456
+msgid ""
+"Invalid component id."
+msgstr ""
+
+#: includes/Ajax.php:535
+msgid ""
+"WC session get function "
+"is not callable"
+msgstr ""
+
+#: includes/Ajax.php:559
+msgid ""
+"Please select required "
+"components."
+msgstr ""
+
+#: includes/Component.php:34
+msgid "Computer Component"
+msgstr ""
+
+#: includes/Component.php:34
+msgid "Computer Components"
+msgstr ""
+
+#: includes/Component.php:125
+msgid "Component Name"
+msgstr ""
+
+#: includes/Component.php:126
+#: includes/FiltersGroup.php:116
+msgid "Filters Group"
+msgstr ""
+
+#: includes/Component.php:127
+msgid "Icon"
+msgstr ""
+
+#: includes/Component.php:128
+msgid "Required"
+msgstr ""
+
+#: includes/Component.php:129
+msgid "Serial"
+msgstr ""
+
+#: includes/FiltersGroup.php:37
+msgid "Filter Group"
+msgstr ""
+
+#: includes/FiltersGroup.php:37
+msgid "Filter Groups"
+msgstr ""
+
+#: includes/FiltersGroup.php:39
+#: includes/FiltersGroup.php:54
+msgid "Filters List"
+msgstr ""
+
+#: includes/FiltersGroup.php:55
+msgid ""
+"Add filters list. Filter "
+"slug must be unique. If "
+"you wants to use same "
+"filter into different "
+"filters groups, you can "
+"keep it same."
+msgstr ""
+
+#: includes/FiltersGroup.php:63
+msgid "Filter Name"
+msgstr ""
+
+#: includes/FiltersGroup.php:68
+msgid "Filter Slug"
+msgstr ""
+
+#: includes/FiltersGroup.php:89
+msgid ""
+"Filters Configuration"
+msgstr ""
+
+#: includes/FiltersGroup.php:117
+msgid "Filters Information"
+msgstr ""
+
+#: includes/FiltersGroup.php:164
+msgid "Configure terms"
+msgstr ""
+
+#: includes/FiltersGroup.php:168
+msgid ""
+"Empty filters list. "
+"Please first add & save "
+"filters list."
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:67
+msgid "PC Configurations"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:82
+msgid "ID"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:83
+msgid "Date Added"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:84
+msgid "Actions"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:107
+msgid "Product Info"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:108
+#: includes/Helper/BuilderManager.php:113
+msgid "Image"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:109
+#: includes/Helper/BuilderManager.php:115
+msgid "Price"
+msgstr ""
+
+#: includes/Frontend/CustomerDashboard.php:110
+msgid "Stock"
+msgstr ""
+
+#: includes/Helper/BuilderManager.php:86
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/Helper/BuilderManager.php:91
+msgid ""
+"Saved PC Configuration"
+msgstr ""
+
+#: includes/Helper/BuilderManager.php:96
+msgid "Screenshots"
+msgstr ""
+
+#: includes/Helper/BuilderManager.php:112
+#: templates/dashboard/view-savedpc.php:33
+msgid "Component"
+msgstr ""
+
+#: includes/Helper/BuilderManager.php:114
+msgid "Product Name"
+msgstr ""
+
+#: includes/Helper/BuilderManager.php:116
+msgid "Action"
+msgstr ""
+
+#: includes/Helper/SavedPcManager.php:44
+msgid ""
+"Failed to insert data"
+msgstr ""
+
+#: includes/Installer.php:45
+msgid "PC Builder Search"
+msgstr ""
+
+#: includes/functions-helper.php:125
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/functions-helper.php:143
+msgid ""
+"action_args should not "
+"be overwritten when "
+"calling "
+"wpadpcbu_get_template."
+msgstr ""
+
+#: templates/admin/admin-notice.php:2
+msgid ""
+"Required plugin notice "
+"for WPAppsDev - PcBuilder"
+msgstr ""
+
+#: templates/admin/admin-notice.php:4
+#, php-format
+msgid ""
+"You just need to "
+"activate the %s to make "
+"it functional."
+msgstr ""
+
+#: templates/admin/admin-notice.php:6
+msgid ""
+"Activate this plugin"
+msgstr ""
+
+#: templates/admin/admin-notice.php:6
+msgid "Activate"
+msgstr ""
+
+#: templates/admin/admin-notice.php:9
+#, php-format
+msgid ""
+"You just need to install "
+"& active the "
+"%1$sWooCommerce%2$s to "
+"make it functional."
+msgstr ""
+
+#: templates/admin/category-add-form.php:1
+#: templates/admin/category-edit-form.php:2
+msgid "Component Serial"
+msgstr ""
+
+#: templates/admin/category-add-form.php:4
+#: templates/admin/category-edit-form.php:7
+msgid ""
+"Input component serial "
+"number."
+msgstr ""
+
+#: templates/admin/category-add-form.php:7
+#: templates/admin/category-edit-form.php:13
+msgid "Required Component"
+msgstr ""
+
+#: templates/admin/category-add-form.php:10
+#: templates/admin/category-edit-form.php:17
+msgid "No"
+msgstr ""
+
+#: templates/admin/category-add-form.php:11
+#: templates/admin/category-edit-form.php:18
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/category-add-form.php:15
+msgid ""
+"Assign Component Filters "
+"Group"
+msgstr ""
+
+#: templates/admin/category-add-form.php:18
+#: templates/admin/category-edit-form.php:28
+msgid ""
+"Select Filters Group"
+msgstr ""
+
+#: templates/admin/category-add-form.php:24
+#: templates/admin/category-edit-form.php:37
+msgid "Component Icon"
+msgstr ""
+
+#: templates/admin/category-add-form.php:29
+#: templates/admin/category-edit-form.php:47
+msgid "Add Image"
+msgstr ""
+
+#: templates/admin/category-add-form.php:30
+#: templates/admin/category-edit-form.php:48
+msgid "Remove Image"
+msgstr ""
+
+#: templates/admin/category-edit-form.php:24
+msgid ""
+"Assign Attribute Group"
+msgstr ""
+
+#: templates/admin/product-metabox.php:5
+#: templates/admin/product-metabox.php:26
+msgid "PC Component"
+msgstr ""
+
+#: templates/admin/product-metabox.php:7
+#: templates/admin/product-metabox.php:28
+msgid "Select Component"
+msgstr ""
+
+#: templates/dashboard/savedpc.php:21
+msgctxt ""
+"hash before saved pc "
+"number"
+msgid "#"
+msgstr ""
+
+#: templates/dashboard/savedpc.php:31
+msgid "View"
+msgstr ""
+
+#: templates/dashboard/savedpc.php:32
+msgid "Remove"
+msgstr ""
+
+#: templates/dashboard/savedpc.php:47
+msgid "Previous"
+msgstr ""
+
+#: templates/dashboard/savedpc.php:51
+msgid "Next"
+msgstr ""
+
+#: templates/dashboard/savedpc.php:58
+msgid ""
+"No saved PC "
+"configuration found."
+msgstr ""
+
+#: templates/dashboard/view-savedpc.php:60
+msgid ""
+"Invalid PC configuration "
+"id."
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:29
+msgid "Hide Filters"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:30
+msgid "Show filters"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:35
+msgid "Price Range"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:83
+msgid "Sort By:"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:85
+msgid "Name (A - Z)"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:86
+msgid "Name (Z - A)"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:87
+msgid ""
+"Price (Low &gt; High)"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:88
+msgid ""
+"Price (High &gt; Low)"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:102
+msgid "PREV"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:114
+msgid "Total Products:"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:114
+msgid "Total Pages:"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:114
+msgid "Current Page:"
+msgstr ""
+
+#: templates/shortcodes/pc-builder-search.php:121
+msgid "NEXT"
+msgstr ""
+
+#: templates/shortcodes/pc-builder.php:8
+msgid "Home"
+msgstr ""
+
+#: templates/shortcodes/pc-builder.php:101
+msgid "Search Product"
+msgstr ""
+
+#: templates/shortcodes/pc-builder.php:105
+msgid "Remove Product"
+msgstr ""
+
+#: templates/shortcodes/pc-builder.php:118
+msgid "Total:"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:121
+#: vendor/WPAppsDev/WpadCpt.php:122
+#: vendor/WPAppsDev/WpadCpt.php:123
+#: vendor/WPAppsDev/WpadCpt.php:124
+#: vendor/WPAppsDev/WpadTaxonomy.php:102
+#: vendor/WPAppsDev/WpadTaxonomy.php:103
+#: vendor/WPAppsDev/WpadTaxonomy.php:104
+#: vendor/WPAppsDev/WpadTaxonomy.php:295
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:125
+msgid "Add New"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:126
+#: vendor/WPAppsDev/WpadTaxonomy.php:109
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:127
+#: vendor/WPAppsDev/WpadTaxonomy.php:106
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:128
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:129
+#: vendor/WPAppsDev/WpadTaxonomy.php:107
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:130
+#: vendor/WPAppsDev/WpadTaxonomy.php:113
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:131
+#: vendor/WPAppsDev/WpadTaxonomy.php:118
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:132
+#, php-format
+msgid ""
+"No %s found in Trash"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:133
+#: vendor/WPAppsDev/WpadTaxonomy.php:112
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:302
+msgid "Set featured image"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadCpt.php:303
+msgid ""
+"Remove featured image"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:105
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:108
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:110
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:111
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:114
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:115
+#, php-format
+msgid ""
+"Seperate %s with commas"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:116
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:117
+#, php-format
+msgid ""
+"Choose from most used %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:119
+#, php-format
+msgid "← Back to %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:296
+#, php-format
+msgid " Select %s"
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:344
+msgid ""
+"Only admin can add terms "
+"to this taxonomy."
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:360
+msgid ""
+"Only admin can delete "
+"terms to this taxonomy."
+msgstr ""
+
+#: vendor/WPAppsDev/WpadTaxonomy.php:378
+msgid ""
+"Only admin can edit "
+"terms to this taxonomy."
+msgstr ""
+
+#: vendor/WPAppsDev/fields/multiimage-field.php:18
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: vendor/WPAppsDev/fields/multiimage-field.php:19
+msgid "Clear"
+msgstr ""

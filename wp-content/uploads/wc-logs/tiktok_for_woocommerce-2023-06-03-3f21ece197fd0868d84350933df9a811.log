@@ -1,0 +1,12 @@
+2023-06-03T03:04:44+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T03:04:44+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T03:06:43+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T03:06:43+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T14:32:49+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2023-06-03T14:32:49+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-06-03T16:24:36+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2023-06-03T16:24:36+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-06-03T23:14:09+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T23:14:09+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T23:14:09+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-06-03T23:14:09+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync

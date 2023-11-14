@@ -1,0 +1,22 @@
+.wp-block-woocommerce-checkout-express-payment-block {
+  margin: 14px 0 28px;
+}
+.wp-block-woocommerce-checkout-express-payment-block .components-placeholder__label svg {
+  font-size: 1em;
+}
+.wp-block-woocommerce-checkout-express-payment-block .wc-block-components-express-payment-continue-rule--checkout {
+  margin-bottom: 0;
+}
+.wp-block-woocommerce-checkout-express-payment-block.wp-block-woocommerce-checkout-express-payment-block--has-express-payment-methods {
+  padding: 14px 0;
+  margin: -14px 0 14px 0 !important;
+  position: relative;
+}
+
+.wp-block-woocommerce-checkout-express-payment-block-placeholder * {
+  pointer-events: all;
+}
+.wp-block-woocommerce-checkout-express-payment-block-placeholder .wp-block-woocommerce-checkout-express-payment-block-placeholder__description {
+  display: block;
+  margin: 0 0 1em;
+}/*# sourceMappingURL=editor.css.map */

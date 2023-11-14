@@ -1,0 +1,17 @@
+.wp-block-woocommerce-filled-cart-block .wc-block-components-sidebar-layout {
+  display: block;
+}
+.wp-block-woocommerce-filled-cart-block .block-editor-block-list__layout {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+.wp-block-woocommerce-filled-cart-block .wc-block-components-main > :first-child,
+.wp-block-woocommerce-filled-cart-block .wc-block-components-sidebar > :first-child,
+.wp-block-woocommerce-filled-cart-block .block-editor-block-list__layout > :first-child {
+  margin-top: 0;
+}
+.wp-block-woocommerce-filled-cart-block .wp-block-woocommerce-cart-totals-block .block-editor-block-list__layout,
+.wp-block-woocommerce-filled-cart-block .wp-block-woocommerce-cart-items-block .block-editor-block-list__layout {
+  display: block;
+}/*# sourceMappingURL=editor.css.map */

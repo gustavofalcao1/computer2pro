@@ -1,0 +1,46 @@
+.wp-block-woocommerce-product-reviews img {
+  max-width: 600px;
+}
+.wp-block-woocommerce-product-reviews .submit {
+  margin-top: 2rem;
+}
+
+.wp-block-woocommerce-product-reviews__editor__row {
+  align-items: center;
+  display: flex;
+  gap: 2rem;
+}
+.wp-block-woocommerce-product-reviews__editor__row > span {
+  flex-basis: 20%;
+}
+.wp-block-woocommerce-product-reviews__editor__row textarea,
+.wp-block-woocommerce-product-reviews__editor__row .wp-block-woocommerce-product-reviews__editor__stars {
+  flex-grow: 1;
+  margin-right: 1rem;
+}
+.wp-block-woocommerce-product-reviews__editor__row textarea {
+  flex-grow: 1;
+  height: 8rem;
+}
+
+.wp-block-woocommerce-product-reviews__editor__stars {
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  width: 5.3em;
+  height: 1.618em;
+  line-height: 1.618;
+  font-size: 1em;
+  /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
+  font-family: star;
+  font-weight: 400;
+}
+.wp-block-woocommerce-product-reviews__editor__stars::before {
+  color: inherit;
+  content: "SSSSS";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  white-space: nowrap;
+}/*# sourceMappingURL=style.css.map */

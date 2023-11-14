@@ -1,0 +1,17 @@
+.wc-blocks-sidebar-compatibility-notice.is-dismissible {
+  margin: 0;
+  padding-right: 16px;
+}
+.wc-blocks-sidebar-compatibility-notice.is-dismissible .components-notice__dismiss {
+  min-width: 24px;
+}
+.wc-blocks-sidebar-compatibility-notice.is-dismissible .components-notice__content {
+  margin: 4px 0;
+}
+.wc-blocks-sidebar-compatibility-notice.is-dismissible svg {
+  width: 16px;
+  height: 16px;
+}
+.wc-blocks-sidebar-compatibility-notice.is-dismissible.is-hidden {
+  display: none;
+}/*# sourceMappingURL=editor.css.map */
