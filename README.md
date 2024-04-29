@@ -9,6 +9,3 @@ Web platform for e-commerce of computers, computer components and accessories, f
 
 > [!RUN]
 >  - Web host with Wordpress
-
-
-##### Copyright © 2023 - Gustavo Falcão
