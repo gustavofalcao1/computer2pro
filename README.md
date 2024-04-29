@@ -7,5 +7,5 @@ Web platform for e-commerce of computers, computer components and accessories, f
 ![nodedo](./00.png)
 -->
 
-> [!RUN]
->  - Web host with Wordpress
+> RUN
+>  > - Web host with Wordpress
